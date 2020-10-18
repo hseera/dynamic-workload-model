@@ -20,8 +20,9 @@ What things you need to execute the script
 Before running your test, you will need to invoke this function to generate the load profile profile which you can then feed in your test run.
 
 ### Output
-Following are different data that will be generated based on values you pass into the workload_function.
-```
+Following are same of the workload model examples that you can generate based on cosine parameter values.
+
+**Scenario 1:**
 With following Cosine function values, you will get the following workload graph
 duration = 3600
 y1Amplitude = 25
@@ -33,7 +34,34 @@ y2HorizontalShift = 0
 y1VerticalShift = 25
 y2VerticalShift = 25
 ![Alt text](/image/Image1.png?raw=true "Optional Title")
-```
+
+
+**Scenario 2:**
+With following Cosine function values, you will get the following workload graph
+duration = 3600
+y1Amplitude = 25
+y2Amplitude = 25
+y1NoofCycles = 4
+y2NoofCycles = 8
+y1HorizontalShift = 0
+y2HorizontalShift = 0
+y1VerticalShift = 25
+y2VerticalShift = 25
+![Alt text](/image/Image2.png?raw=true "Optional Title")
+
+**Scenario 3:**
+With following Cosine function values, you will get the following workload graph
+duration = 3600
+y1Amplitude = 25
+y2Amplitude = 25
+y1NoofCycles = 4
+y2NoofCycles = 10
+y1HorizontalShift = 0
+y2HorizontalShift = 0
+y1VerticalShift = 25
+y2VerticalShift = 25
+![Alt text](/image/Image3.png?raw=true "Optional Title")
+
 
 ## Authors
 

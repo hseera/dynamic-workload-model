@@ -1,8 +1,7 @@
 # Dynamic Workload
 There are times when you want to generate dynamic workload model to test different scenarios. For example testing autoscaling in cloud. 
 
-The python code below  
-
+In your load test tool call the python code to get the load to generate value per second. Based on the value received then make appropriate # of requests per second.
 
 ## Getting Started
 
@@ -18,6 +17,8 @@ What things you need to execute the script
 ### Execution
 
 Before running your test, you will need to invoke this function to generate the load profile profile which you can then feed in your test run.
+
+Play around with the function values to get the correct workload model you want to emulate for your testing.
 
 ### Output
 Following are same of the workload model examples that you can generate based on cosine parameter values.

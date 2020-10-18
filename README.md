@@ -72,6 +72,21 @@ y2VerticalShift = 25
 ```
 ![Alt text](/image/Image3.png?raw=true "Optional Title")
 
+**Scenario 4:**
+
+With following Cosine function values, you will get the following workload graph
+```
+duration = 3600
+y1Amplitude = 25
+y2Amplitude = 25
+y1NoofCycles = 4
+y2NoofCycles = 5
+y1HorizontalShift = 0
+y2HorizontalShift = 0
+y1VerticalShift = 25
+y2VerticalShift = 25
+```
+![Alt text](/image/Image4.png?raw=true "Optional Title")
 
 ## Authors
 

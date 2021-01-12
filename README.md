@@ -90,7 +90,7 @@ y2VerticalShift = 25
 
 ## Authors
 
-* **Harinder Seera** - *Initial work* - [OzPerf](https://ozperf.com/)
+* **Harinder Seera** - *Initial work*
 
 If you would like to contribute to this project, please reachout to me.
 

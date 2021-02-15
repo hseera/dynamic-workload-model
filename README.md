@@ -1,4 +1,4 @@
-# Dynamic Workload
+# Dynamic Workload Model
 There are times when you want to generate dynamic workload model to test different scenarios. For example testing autoscaling in cloud. 
 
 In your load test tool call the python code to get the load to generate value per second. Based on the value received then make appropriate # of requests per second.

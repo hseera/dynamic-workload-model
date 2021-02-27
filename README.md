@@ -105,4 +105,4 @@ If you would like to contribute to this project, please reachout to me. Issues a
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details

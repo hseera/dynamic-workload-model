@@ -59,8 +59,6 @@ def main():
     #model = sustain_function(RAMPUP,RAMPDOWN,DURATION,TIME)
     
     '''Using below to plot a graph to show what kind of workload model the above code generates with default function values. 
-    You can instead covert this function into an api call which you can then call in your load test tool. 
-    The api will return a list of values which you can parse in your load test tool to emulate the workload model.
     '''
     x_val = [x[0] for x in model]
     y_val = [x[1] for x in model]

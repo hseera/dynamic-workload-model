@@ -56,7 +56,7 @@ def main():
                 Y2_NO_OF_CYCLES,Y1_HORIZONTAL_SHIFT,Y2_HORIZONTAL_SHIFT,Y1_VERTICAL_SHIFT,Y2_VERTICAL_SHIFT)
     
     #Generate a sustain workload model with rampup and rampdown
-    #model = sustain_function(RAMPUP,RAMPDOWN,DURATION,TIME)
+    # model = sustain_function(RAMPUP,RAMPDOWN,DURATION,TIME)
     
     '''Using below to plot a graph to show what kind of workload model the above code generates with default function values. 
     '''

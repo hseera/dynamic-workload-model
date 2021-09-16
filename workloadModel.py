@@ -63,7 +63,7 @@ def main():
     x_val = [x[0] for x in model]
     y_val = [x[1] for x in model]
     
-    plt.plot(x_val,y_val)
+    # plt.plot(x_val,y_val)
     plt.plot(x_val,y_val,'-_r')
     plt.show()
 
